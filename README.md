@@ -36,14 +36,13 @@ Connections between Speaker and Class D Amplifier
 | + | Out+ |
 | - | Out- |
 
-![alt text](https://github.com/vshetty33/ECE4180-final-project/blob/main/Mbed_Block_Diagram%20(1).jpg)
-
 
 ## Project Idea
 
 In today's world, securing access to personal or society garages is very important. So, we have designed a garage door access system secured by password to prohibit or grant accessing to cars trying to enter private properties. 
 The image below shows the block diagram of our project.
 
+![Block diagram](https://github.com/vshetty33/ECE4180-final-project/blob/main/Mbed_Block_Diagram%20(1).jpg)
 // Insert image and label here
 
 The system is designed to perform the following tasks:
