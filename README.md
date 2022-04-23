@@ -36,7 +36,7 @@ Connections between Speaker and Class D Amplifier
 | + | Out+ |
 | - | Out- |
 
-![https://github.com/vshetty33/ECE4180-final-project/blob/main/Mbed_Block_Diagram%20(1).jpg]
+![alt text](https://github.com/vshetty33/ECE4180-final-project/blob/main/Mbed_Block_Diagram%20(1).jpg)
 
 
 
