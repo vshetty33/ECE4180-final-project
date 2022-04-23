@@ -30,3 +30,30 @@ Link to project demo:
 | p28 | sda |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Parts List
+
+Electronics:
+
+* Mbed LPC1768, https://www.sparkfun.com/products/9564
+* 
+
+
