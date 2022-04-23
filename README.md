@@ -43,7 +43,8 @@ In today's world, securing access to personal or society garages is very importa
 The image below shows the block diagram of our project.
 
 ![Block diagram](https://github.com/vshetty33/ECE4180-final-project/blob/main/Mbed_Block_Diagram%20(1).jpg)
-// Insert image and label here
+
+Block Diagram of our device
 
 The system is designed to perform the following tasks:
 
@@ -113,3 +114,5 @@ Connections between Speaker and Class D Amplifier
 | ------- | ----------- |
 | + | Out+ |
 | - | Out- |
+
+
