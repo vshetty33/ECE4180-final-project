@@ -1,7 +1,9 @@
 # Proximity Based Garage Door Access
-**Team members:** Dhruva Devasthale, Prabhleen Kaur Gill, Vandita Shetty
+**Team members:** Dhruva Dilip Devasthale, Prabhleen Kaur Gill, Vandita Shetty
 
 **Georgia Institute of Technology**
+
+**ECE 4180 Final Project**
 
 Link to project demo: 
 
@@ -24,11 +26,11 @@ Block Diagram of our device
 
 The system is designed to perform the following tasks:
 
-1. When a car comes within 300mm of the gate (distance sensor), it prompts the user for Entering Password.
+1. When a car comes within 300mm of the gate (distance sensor), it prompts the user to Enter the Password.
 2. The Password is a 4 digit key.
-3. The user enters the password using blutooth controlled keypad.
-4. If the password is correct, the RGB LED turns green and the barrier opens. After the car has passed, the barrier comes down automatically.
-5. If the password is incorrect, the RGB LED turns Red and a beep is sounded using the speaker.
+3. User enters the password using blutooth controlled keypad.
+4. If the password is correct, RGB LED turns green and the barrier opens. After the car has passed, the barrier comes down automatically.
+5. If the password is incorrect, RGB LED turns Red and a warning beep is sounded using the speaker.
 6. The user is prompted to reenter the password. They are given 3 warnings and one final try.
 7. If the user inputs incorrect password on the fourth try, an alarm starts sounding and the system resets.
 8. The user is denied access.
@@ -58,9 +60,9 @@ Non Electronics:
 ## Schematic Diagram and Pin Connections
 This section provides the circuit diagram and connections needed for implementation.
 
-![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnectionL.jpeg)
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnection.jpeg)
 
-![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PInConnectionD.jpeg)
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PInConnection1.jpeg)
 
 ## Connection Table for all components
 
