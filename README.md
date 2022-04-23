@@ -54,6 +54,6 @@ Link to project demo:
 Electronics:
 
 * Mbed LPC1768, https://www.sparkfun.com/products/9564
-* 
+* LCD Display: uLCD-144G2, https://www.sparkfun.com/products/11377
 
 
