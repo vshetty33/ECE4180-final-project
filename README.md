@@ -3,10 +3,12 @@
 
 **Georgia Institute of Technology**
 
-Links to project demo:
+Link to project demo: 
 
-| MBED | ToF Distance | uLCD | BLE | SD breakout | Servo |
-| ---- | ------------ | ---- | --- | ----------- | ----- |
+
+
+| MBED | ToF Distance | Servo | uLCD | BLE | SD breakout | Speaker | Class D Amp | RGB LED |
+| ---- | ------------ | ---- | --- | ----------- | ----- | ------- | ----------- | ------- |
 | Vdd = 5V | | 5V | Vin | | |
 | Vdd = 3.3V | Vin | | | | Vcc | 
 | GND | Gnd | Black | Gnd | Gnd,Cts | Gnd |
@@ -19,4 +21,12 @@ Links to project demo:
 | p11 | | | Reset | | |
 | p13 | | | Tx | | |
 | p14 | | | Rx | | |
+| p16 | | | | | | | 
+| p18 |
+| p19 |
+| p21 | | yellow |
+| p26 | xshut | 
+| p27 | scl |
+| p28 | sda |
+
 
