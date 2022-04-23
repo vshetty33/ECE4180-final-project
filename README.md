@@ -5,13 +5,13 @@
 
 Link to project demo: 
 
+## Connection Table for all components
 
-
-| MBED | ToF Distance | Servo | uLCD | BLE | SD breakout | Speaker | Class D Amp | RGB LED |
-| ---- | ------------ | ---- | --- | ----------- | ----- | ------- | ----------- | ------- |
+| MBED | ToF Distance | Servo | uLCD | BLE | SD breakout | Class D Amp | RGB LED |
+| ---- | ------------ | ---- | --- | ----------- | ----- | ----------- | ------- |
 | Vdd = 5V | | 5V | Vin | | |
-| Vdd = 3.3V | Vin | | | | Vcc | 
-| GND | Gnd | Black | Gnd | Gnd,Cts | Gnd |
+| Vdd = 3.3V | Vin | | | | Vcc | Pwr+ | 
+| GND | Gnd | Black | Gnd | Gnd,Cts | Gnd | Pwr-, IN- | Gnd |
 | p5 | | | | | DI |
 | p6 | | | | | DO |
 | p7 | | | | | SCK |
@@ -21,13 +21,21 @@ Link to project demo:
 | p11 | | | Reset | | |
 | p13 | | | Tx | | |
 | p14 | | | Rx | | |
-| p16 | | | | | | red | 
-| p18 | | | | | | 
-| p19 |
+| p16 | | | | | | | red | 
+| p18 | | | | | | IN+ |
+| p19 | | | | | | | green |
 | p21 | | yellow |
 | p26 | xshut | 
 | p27 | scl |
 | p28 | sda |
+
+Connections between Speaker and Class D Amplifier
+
+| Speaker | Class D Amp |
+| ------- | ----------- |
+| + | Out+ |
+| - | Out- |
+
 
 
 
