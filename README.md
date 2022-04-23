@@ -48,10 +48,12 @@ Non Electronics:
 * Cardboad box for depicting a car
 * Cardboard strap for depicting servo controlled barrier
 
-## Schematic and Block Diagram
+## Schematic Diagram and Pin Connections
 This section provides the circuit diagram and connections needed for implementation.
 
-// Add and label images here
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnectionL.jpeg)
+
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PInConnectionD.jpeg)
 
 ## Connection Table for all components
 
@@ -84,4 +86,4 @@ Connections between Speaker and Class D Amplifier
 | + | Out+ |
 | - | Out- |
 
-
+![Bluetooth Controls](https://github.com/vshetty33/ECE4180-final-project/blob/main/BLE.jpeg)
