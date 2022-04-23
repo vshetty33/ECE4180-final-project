@@ -55,5 +55,15 @@ Electronics:
 
 * Mbed LPC1768, https://www.sparkfun.com/products/9564
 * LCD Display: uLCD-144G2, https://www.sparkfun.com/products/11377
+* ToF Distance Sensor, https://www.adafruit.com/product/3317
+* Servo: HS-442, https://www.servocity.com/hs-422-servo
+* Speaker: https://www.sparkfun.com/products/11089
+* Class D Amplifier, https://www.sparkfun.com/products/11044
+* Resistors: 330ohm, https://www.sparkfun.com/products/14490
+* Bluetooth module, https://www.adafruit.com/product/2479
+* uSD Card File System and Breakout, https://www.sparkfun.com/products/544
+* RGB LED, https://www.sparkfun.com/products/105
+* 5V External Power Supply
+ 
 
 
