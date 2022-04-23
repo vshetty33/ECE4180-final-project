@@ -5,37 +5,6 @@
 
 Link to project demo: 
 
-## Connection Table for all components
-
-| MBED | ToF Distance | Servo | uLCD | BLE | SD breakout | Class D Amp | RGB LED |
-| ---- | ------------ | ---- | --- | ----------- | ----- | ----------- | ------- |
-| Vdd = 5V | | 5V | Vin | | |
-| Vdd = 3.3V | Vin | | | | Vcc | Pwr+ | 
-| GND | Gnd | Black | Gnd | Gnd,Cts | Gnd | Pwr-, IN- | Gnd |
-| p5 | | | | | DI |
-| p6 | | | | | DO |
-| p7 | | | | | SCK |
-| p8 | | | | | CS |
-| p9 | | | | TX | |
-| p10 | | | | RX | |
-| p11 | | | Reset | | |
-| p13 | | | Tx | | |
-| p14 | | | Rx | | |
-| p16 | | | | | | | red | 
-| p18 | | | | | | IN+ |
-| p19 | | | | | | | green |
-| p21 | | yellow |
-| p26 | xshut | 
-| p27 | scl |
-| p28 | sda |
-
-Connections between Speaker and Class D Amplifier
-
-| Speaker | Class D Amp |
-| ------- | ----------- |
-| + | Out+ |
-| - | Out- |
-
 
 ## Project Idea
 
@@ -79,10 +48,12 @@ Non Electronics:
 * Cardboad box for depicting a car
 * Cardboard strap for depicting servo controlled barrier
 
-## Schematic and Block Diagram
+## Schematic Diagram and Pin Connections
 This section provides the circuit diagram and connections needed for implementation.
 
-// Add and label images here
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnectionL.jpeg)
+
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PInConnectionD.jpeg)
 
 ## Connection Table for all components
 
@@ -115,4 +86,4 @@ Connections between Speaker and Class D Amplifier
 | + | Out+ |
 | - | Out- |
 
-
+![Bluetooth Controls](https://github.com/vshetty33/ECE4180-final-project/blob/main/BLE.jpeg)
