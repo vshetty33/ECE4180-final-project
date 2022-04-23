@@ -21,8 +21,8 @@ Link to project demo:
 | p11 | | | Reset | | |
 | p13 | | | Tx | | |
 | p14 | | | Rx | | |
-| p16 | | | | | | | 
-| p18 |
+| p16 | | | | | | red | 
+| p18 | | | | | | 
 | p19 |
 | p21 | | yellow |
 | p26 | xshut | 
