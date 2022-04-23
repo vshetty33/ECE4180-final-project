@@ -62,7 +62,7 @@ This section provides the circuit diagram and connections needed for implementat
 
 ![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnection.jpeg)
 
-![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PInConnection1.jpeg)
+![Pin Connections](https://github.com/vshetty33/ECE4180-final-project/blob/main/PinConnection1.jpeg)
 
 ## Connection Table for all components
 
