@@ -6,7 +6,7 @@
 Link to project demo: 
 
 ## Table of Contents
-* [Project Idea](##project-idea)
+* Project Idea
 * Parts List
 * Schematic Diagram and Pin Connections
 * Connection Table for all components
