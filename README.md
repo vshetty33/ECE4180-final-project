@@ -101,6 +101,11 @@ Connections between Speaker and Class D Amplifier
 Our bluetooth control screen
 
 ## Source Code
+
+All source code is included in this repository. Run it by importing the repository into the MBed Cloud Compiler. Make sure to included all the libraries.
+
+main.cpp code
+
 ```C++
 //////////////////////////////////////////////////////////////////////////
 //PROJECT: Proximity based garage door access                           //
