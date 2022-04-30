@@ -101,7 +101,7 @@ Connections between Speaker and Class D Amplifier
 Our bluetooth control screen
 
 ## Source Code
-```
+```C++
 //////////////////////////////////////////////////////////////////////////
 //PROJECT: Proximity based garage door access                           //
 //TEAM: Dhruva Dilip Devasthale, Prabhleen Kaur Gill, Vandita Shetty    //
