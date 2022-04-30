@@ -95,6 +95,6 @@ Connections between Speaker and Class D Amplifier
 | + | Out+ |
 | - | Out- |
 
-![Bluetooth Controls](https://github.com/vshetty33/ECE4180-final-project/blob/main/BLE_diagram.jpg)
+![Bluetooth Controls](https://github.com/vshetty33/ECE4180-final-project/blob/main/pics/BLE_diagram.jpg)
 
 Our bluetooth control screen
